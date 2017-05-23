@@ -1,5 +1,5 @@
 # cron4backups
-[![N|Solid](https://hub.docker.com/public/images/logos/mini-logo.svg)](https://hub.docker.com/)
+[![N|Solid](http://core0.staticworld.net/images/article/2015/07/docker-logo-copy-100594460-small.idge.png)](https://hub.docker.com/)
 ## Actual version: 0.1
 ### 0.1 [20170424]
 > -Crea backup automáticos para db mysql
