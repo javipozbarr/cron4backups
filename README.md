@@ -1,5 +1,5 @@
 # cron4backups
-[![N|Solid](http://prepro.aeioyou.es/assets/img/logo/small/logo_orange_big.png)](http://prepro.aeioyou.es)
+
 ## Actual version: 0.1
 ### 0.1 [20170424]
 > -Crea backup automáticos para db mysql
