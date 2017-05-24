@@ -1,5 +1,10 @@
 # cron4backups
 [![N|Solid](http://core0.staticworld.net/images/article/2015/07/docker-logo-copy-100594460-small.idge.png)](https://hub.docker.com/)
+
+repo linked to docker in:
+
+https://github.com/AmalgamaTech/cron4backups
+
 ## Actual version: 0.1
 ### 0.1 [20170424]
 > -Crea backup automáticos para db mysql
